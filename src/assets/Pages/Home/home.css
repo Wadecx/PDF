@@ -4,18 +4,22 @@ body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    background-color: #F5F7FA;
 }
 
 .main{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-top: 20vh;
-    width: 80%;
+    margin-top: 3vh;
+    width: 50%;
     margin-inline: auto;
 }
 .main h2{
     font-family: "Poppins", serif;
-  font-weight: 400;
+  font-weight: 600;
+  text-align: center;
+  font-size: 30px;
   font-style: normal;
+  margin-bottom: 10vh;
 }
